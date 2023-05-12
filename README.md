@@ -1,5 +1,5 @@
 # CompareSatelliteRepos
-A python script used to compare a list of repos from two Redhat Satellites a pull out the unique repositories
+A python script used to compare two lists of repos from two Redhat Satellites a pull a list of unique repositories from Sat1
 
 #This script was developed as a method of determining repos that are enabled on one Satellite but not another. 
 #It was also developed as a method of ensuring an identitcal set of repos are enabled on each Satellite Server 
